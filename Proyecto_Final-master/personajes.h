@@ -6,7 +6,7 @@
 #include "fisicas.h"
 #include <stdlib.h>
 #include <time.h>
-
+//
 class personajes: public QGraphicsItem
 {
 public:

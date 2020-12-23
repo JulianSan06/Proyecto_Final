@@ -40,6 +40,7 @@ void MainWindow::actualizar()
         bars.at(i)->actualizar(v_limit);
         borderCollision(bars.at(i)->getEsf());
     }
+    //Pone problema aqui
 
 }
 

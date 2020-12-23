@@ -1,6 +1,6 @@
 #include "personajes.h"
 
-
+//
 personajes::personajes(int x):escala(1)
 {
     float posx,posy,velx,vely,mass,r,K,e;
