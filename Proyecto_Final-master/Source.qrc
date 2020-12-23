@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Diomedes_Normal.png</file>
+        <file>M.ELIAS_Normal.png</file>
+    </qresource>
+</RCC>
