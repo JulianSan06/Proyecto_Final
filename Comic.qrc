@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Comic/Historia 1.png</file>
+        <file>Comic/Historia 2.png</file>
+        <file>Comic/Historia 3.png</file>
+        <file>Comic/Historia 4.png</file>
+        <file>Comic/Historia 5.png</file>
+        <file>Comic/Historia 6.png</file>
+        <file>Comic/Historia 7.png</file>
+        <file>Comic/Historia 8.png</file>
+        <file>Comic/Historia 9.png</file>
+        <file>Comic/Historia 10.png</file>
+    </qresource>
+</RCC>

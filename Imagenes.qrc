@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/1 screen.png</file>
+        <file>Imagenes/2 screen.png</file>
+        <file>Imagenes/BACH_TOMBO.png</file>
+        <file>Imagenes/Diomedes_Normal.png</file>
+        <file>Imagenes/M.ELIAS_Normal.png</file>
+        <file>Imagenes/BASE_ONE.png</file>
+        <file>Imagenes/BASE_THREE.png</file>
+        <file>Imagenes/BASE_TOW.png</file>
+        <file>Imagenes/moneda.png</file>
+        <file>Imagenes/nivel 2.png</file>
+        <file>Imagenes/bala der.png</file>
+        <file>Imagenes/bala izq.png</file>
+        <file>Imagenes/Fondo 1.png</file>
+        <file>Imagenes/Fondo 2.png</file>
+        <file>Imagenes/principal_doble_diomedes.jpg</file>
+        <file>Imagenes/Mic.png</file>
+    </qresource>
+</RCC>

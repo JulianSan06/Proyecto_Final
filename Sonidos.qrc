@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sonidos/La-plata-remix.mp3</file>
+        <file>Sonidos/Muerte.mp3</file>
+        <file>Sonidos/disparo_1.mp3</file>
+        <file>Sonidos/Moneda.mp3</file>
+    </qresource>
+</RCC>
